@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou Kaique</h1>
-<h3 align="left">Busco minha primeira experiência em trabalho na área de <br> Programação, atualmente estou cursando ensino superior de Analise e Desenvolvimento de Sistemas <br> na universidade Unicid</h3>
+<h3 align="left">Busco minha primeira experiência em trabalho na área de Programação, atualmente estou cursando ensino superior de Analise e Desenvolvimento de Sistemas na universidade Unicid</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
