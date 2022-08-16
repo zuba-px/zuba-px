@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou Kaique</h1>
-<h3 align="left">Estou em busca da minha primeira oportunidade de trabalho na área de Desenvolvimento, atualmente estou cursando ensino superior de Analise e Desenvolvimento de Sistemas na universidade Unicid</h3>
+<h3 align="left">Estou em busca da minha primeira oportunidade de trabalho na área de Desenvolvimento, atualmente estou cursando ensino superior em tecnologia de Jogos Digitas na Fatec de Carapicuiba</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
