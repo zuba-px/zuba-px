@@ -1,6 +1,6 @@
 ## Sobre Mim
 - 🌱 Estou atualmente aprendendo Unity para jogos.
-- 💼 Trabalho como jovem apreniz na PwC.
+- 💼 Trabalho como jovem aprendiz na PwC.
 - 🎓 Formado em Jogos Digitais(3° semestre).
 ## Como entrar em contato comigo
 - [Email](kaiquezuba7@gmail.com)
