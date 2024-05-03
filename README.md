@@ -10,6 +10,8 @@
 - [Zuflix](https://github.com/zuba-px/Zuflix): Um site feito por mim para estudos.
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+
+
 Se curtiu meu perfil e quiser entrar em contanto fique a vontade, estou sempre disposto a aprender coisas novas.
 
 
