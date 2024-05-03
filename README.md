@@ -12,7 +12,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
 
 
-Se curtiu meu perfil e quiser entrar em contanto fique a vontade, estou sempre disposto a aprender coisas novas.
+Se curtiu meu perfil e quiser entrar em contato fique a vontade, estou sempre disposto a aprender coisas novas.
 
 
 
