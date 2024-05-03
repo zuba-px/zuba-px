@@ -5,7 +5,6 @@
 ## Como entrar em contato comigo
 - [Email](kaiquezuba7@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/kaique-zuba-b17931191/)
-- [Instagram](https://www.instagram.com/kaique_zuba/)
 ## Meus projetos favoritos
 - [Little Fairy](https://3g2g-studio.itch.io/little-fairy): Um jogo feito por mim e meu grupo da faculdade.
 - [Zuflix](https://github.com/zuba-px/Zuflix): Um site feito por mim para estudos.
