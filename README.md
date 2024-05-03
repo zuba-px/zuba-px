@@ -3,7 +3,7 @@
 - 💼 Trabalho como jovem apreniz na PwC.
 - 🎓 Formado em Jogos Digitais(3° semestre).
 ## Como entrar em contato comigo
-- [Email](kaiquezuba07@gmail.com)
+- [Email](kaiquezuba7@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/kaique-zuba-b17931191/)
 - [Instagram](https://www.instagram.com/kaique_zuba/)
 ## Meus projetos favoritos
